@@ -1,4 +1,3 @@
-// test..
 const axios = require(`axios`);
 const extract = require(`extract-zip`);
 const { createWriteStream } = require(`fs`);
